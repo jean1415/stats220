@@ -28,6 +28,11 @@ This is `Inline Code`.
 
 Learning about [Github](https://github.com) is fun, and this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is pretty useful!
 
+<!---this is how to use emojis: Complete list of github markdown emoji markup--->
+This is how to write emoji :tiger: and check out the [Complete list of github markdown emoji](https://gist.github.com/rxaviers/7360908).
+
 This is my favourite animal
 (hover over the image to see the `title text`):
 ![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/cavoodle-puppy-michael-miller.jpg "Cavoodle painting")
+
+
