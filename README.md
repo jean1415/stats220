@@ -6,7 +6,7 @@ This repo contains files and references for the *STATS 220, Assignment 1*.
 
 The repo link is available [here](https://github.com/jean1415/stats220.git).
 
-#### Markdown syntax summary:
+## Markdown syntax summary:
 <!---this is how to make comments--->
 <!---numbered list--->
 1. This
