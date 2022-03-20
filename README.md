@@ -2,9 +2,9 @@
 ## Assignment 1
 
 #### Repo description:
-This repo contains files for the *STATS 220, Assignment 1*.
+This repo contains files and references for the *STATS 220, Assignment 1*.
 
-The link is available [here](https://github.com/jean1415/stats220.git).
+The repo link is available [here](https://github.com/jean1415/stats220.git).
 
 #### Markdown syntax summary:
 <!---this is how to make comments--->
@@ -26,7 +26,7 @@ This is `Inline Code`.
 
 <!---this is how to use url links--->
 
-![Github](https://github.com/) is fun!
+Learning about [Github](https://github.com) is fun, and this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is pretty useful!
 
 This is my favourite animal
 (hover over the image to see the `title text`):
