@@ -1,16 +1,16 @@
 # My meme
 
-### Meme description:
+## Meme description:
 
 * This meme aims to raise awareness of *digital footprint* with a sense of humor.
 * While the boy innocently restates his father's advice, the symbolic face of social media reveals the fact 
 (based on the social media users' digital footprints)
-that the person who the boy believes to be his father is in fact not the biological father.
+that the person who the boy believes to be his father is in fact not the boy's biological father.
 
-### Display Meme:
+## Display Meme:
 ![](https://github.com/jean1415/stats220/blob/main/jean_meme.png "My first meme on R")
 
-### R code used to create the meme:
+## R code used to create the meme:
 ```r
 library(magick)
 
