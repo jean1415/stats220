@@ -8,7 +8,10 @@
 that the person who the boy believes to be his father is in fact not the boy's biological father.
 
 ## Display Meme:
-![](https://github.com/jean1415/stats220/blob/main/jean_meme.png "My first meme on R")
+![](jean_meme.png)
+<!---alternative way to display image within the same repo:
+![](https://github.com/jean1415/stats220/blob/main/jean_meme.png "My first meme on R") 
+--->
 
 ## R code used to create the meme:
 ```r
